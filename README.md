@@ -9,7 +9,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubens-correa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-correa&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div>
+<div style="display: inline_block"><br>
 <img align="center" alt="Rubens-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rubens-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rubens-Bootstrap" height="30" width="40" src="https://user-images.githubusercontent.com/87000522/171234870-82bcea38-7716-481c-a4c9-349c75277db1.svg">
